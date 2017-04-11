@@ -1,0 +1,8 @@
+c:\users\vlado.cc\documents\visual studio 2015\Projects\FileMerger\FileMerger\bin\Release\FileMerger.exe.config
+c:\users\vlado.cc\documents\visual studio 2015\Projects\FileMerger\FileMerger\bin\Release\FileMerger.exe
+c:\users\vlado.cc\documents\visual studio 2015\Projects\FileMerger\FileMerger\bin\Release\FileMerger.pdb
+c:\users\vlado.cc\documents\visual studio 2015\Projects\FileMerger\FileMerger\obj\Release\FileMerger.Form1.resources
+c:\users\vlado.cc\documents\visual studio 2015\Projects\FileMerger\FileMerger\obj\Release\FileMerger.Properties.Resources.resources
+c:\users\vlado.cc\documents\visual studio 2015\Projects\FileMerger\FileMerger\obj\Release\FileMerger.csproj.GenerateResource.Cache
+c:\users\vlado.cc\documents\visual studio 2015\Projects\FileMerger\FileMerger\obj\Release\FileMerger.exe
+c:\users\vlado.cc\documents\visual studio 2015\Projects\FileMerger\FileMerger\obj\Release\FileMerger.pdb
