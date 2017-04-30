@@ -58,7 +58,7 @@ namespace FileMerger
                     }
                    
                 }
-                MessageBox.Show("the merging is complete", "Protoss Archon",
+                MessageBox.Show("The merging is complete", "Protoss Archon",
                    MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else

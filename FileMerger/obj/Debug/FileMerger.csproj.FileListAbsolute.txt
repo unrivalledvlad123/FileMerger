@@ -10,3 +10,12 @@ c:\users\vlado.cc\documents\visual studio 2015\Projects\FileMerger\FileMerger\ob
 D:\Projects\FileMerger\FileMerger\bin\Debug\FileMerger.exe.config
 D:\Projects\FileMerger\FileMerger\obj\Debug\FileMerger.exe
 D:\Projects\FileMerger\FileMerger\obj\Debug\FileMerger.pdb
+C:\Projects\FileMerger\FileMerger\bin\Debug\FileMerger.exe.config
+C:\Projects\FileMerger\FileMerger\obj\Debug\FileMerger.exe
+C:\Projects\FileMerger\FileMerger\obj\Debug\FileMerger.pdb
+C:\Projects\FileMerger\FileMerger\bin\Debug\FileMerger.exe
+C:\Projects\FileMerger\FileMerger\bin\Debug\FileMerger.pdb
+C:\Projects\FileMerger\FileMerger\obj\Debug\FileMerger.csprojResolveAssemblyReference.cache
+C:\Projects\FileMerger\FileMerger\obj\Debug\FileMerger.Form1.resources
+C:\Projects\FileMerger\FileMerger\obj\Debug\FileMerger.Properties.Resources.resources
+C:\Projects\FileMerger\FileMerger\obj\Debug\FileMerger.csproj.GenerateResource.Cache

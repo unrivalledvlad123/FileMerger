@@ -6,3 +6,11 @@ c:\users\vlado.cc\documents\visual studio 2015\Projects\FileMerger\FileMerger\ob
 c:\users\vlado.cc\documents\visual studio 2015\Projects\FileMerger\FileMerger\obj\Release\FileMerger.csproj.GenerateResource.Cache
 c:\users\vlado.cc\documents\visual studio 2015\Projects\FileMerger\FileMerger\obj\Release\FileMerger.exe
 c:\users\vlado.cc\documents\visual studio 2015\Projects\FileMerger\FileMerger\obj\Release\FileMerger.pdb
+C:\Projects\FileMerger\FileMerger\bin\Release\FileMerger.exe.config
+C:\Projects\FileMerger\FileMerger\obj\Release\FileMerger.exe
+C:\Projects\FileMerger\FileMerger\obj\Release\FileMerger.pdb
+C:\Projects\FileMerger\FileMerger\bin\Release\FileMerger.exe
+C:\Projects\FileMerger\FileMerger\bin\Release\FileMerger.pdb
+C:\Projects\FileMerger\FileMerger\obj\Release\FileMerger.Form1.resources
+C:\Projects\FileMerger\FileMerger\obj\Release\FileMerger.Properties.Resources.resources
+C:\Projects\FileMerger\FileMerger\obj\Release\FileMerger.csproj.GenerateResource.Cache
